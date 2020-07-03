@@ -1,0 +1,16 @@
+h1{
+font-family:arial;
+}
+
+canvas {
+  width: 200px;
+  height:100px;
+  border: 1px solid #c3c3c3;
+}
+.orangeback{
+	background-color: orange;
+}
+
+.blueback{
+	background-color: blue;
+}

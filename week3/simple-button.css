@@ -1,0 +1,20 @@
+h1{
+font-family:arial;
+  color:skyblue;
+}
+h4{
+  color: blue;
+}
+div {
+  width: 200px;
+  font-size: 28px;
+  padding: 5pt;
+  margin:10pt;
+  border: 1px black;
+}
+#d1 {
+  background-color: lightblue;
+}
+#d2 {
+  background-color: yellow;
+}
